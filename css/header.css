@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap');
+
+
+
+header {
+    z-index: 1;
+}
+
+.center {
+    z-index: 2;
+}
+
+.tab {
+    color: lightskyblue;
+    padding: 1.75%;
+    z-index: 2;
+}
+
+.tab:hover {
+    color: lightskyblue;
+    text-decoration: none;
+    transform: translateY(-5px);
+}
+
+.tablinks {
+    text-align: center;
+    font-size: large;
+    font-family: 'Noto Sans HK', sans-serif;
+    text-decoration: none;
+}
+
+.tablink {
+    padding: 1%;
+    z-index: 2;
+    color: gray;
+}
+.tablink:hover {
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+.head-row {
+    background-color:lightskyblue;
+
+}
+
+.foot {
+    text-align: center;
+    color: gray;
+    font-family: 'Noto Sans HK', sans-serif;
+    padding-bottom: 2%;
+}
+
+
