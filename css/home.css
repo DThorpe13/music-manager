@@ -21,6 +21,10 @@ h1 {
     font-family: 'Noto Sans HK', sans-serif;
 }
 
+.band-names:hover {
+    color: lightskyblue;
+}
+
 
 @import url('https://fonts.googleapis.com/css?family=Oswald:700');
 @import url('https://fonts.googleapis.com/css?family=Rubik');
