@@ -15,10 +15,9 @@
 }
 
 .back-card {
-    width: 120vh;
+    width: 110vh;
     height: 70vh;
-    background-color: whitesmoke!important;
-    align-items: center;    
+    background-color: whitesmoke!important;    
     z-index: 3;
     margin: auto;
     top: auto;
@@ -28,7 +27,7 @@
 .contact-card {
     width: 50vh;
     height: 60vh;
-    background-color: black!important;
+    background: linear-gradient(to top left, #000000 -5%, #003399 128%)!important;
     position: absolute;
     z-index: 5;
     box-shadow: 10px 10px 5px #aaaaaa;
