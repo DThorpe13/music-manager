@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap');
+
+.bg-container {
+    height: 80vh;
+}
+.sm-container {
+    padding-top: 5vh;
+}
+.card-container {
+    position: absolute;
+    z-index: 0;
+    height: 80vh;
+    margin: auto;
+    
+}
+
+.back-card {
+    width: 120vh;
+    height: 70vh;
+    background-color: whitesmoke!important;
+    align-items: center;    
+    z-index: 3;
+    margin: auto;
+    top: auto;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.contact-card {
+    width: 50vh;
+    height: 60vh;
+    background-color: black!important;
+    position: absolute;
+    z-index: 5;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
